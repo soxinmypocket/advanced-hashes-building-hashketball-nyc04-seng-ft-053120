@@ -127,5 +127,5 @@ def game_hash
       ]
     }
   }
-end
-end
+  end
+  game_hash
