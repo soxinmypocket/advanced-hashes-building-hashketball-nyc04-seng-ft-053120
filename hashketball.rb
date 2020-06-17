@@ -3,8 +3,8 @@ def game_hash(hash)
 #top level has two keys :home and :away
   hash = {
     :home => {
-       :team_name => "",
-       :colors => [] ,
+       :team_name => "Brooklyn Nets",
+       :colors => [ Black, White ] ,
        :players => [
                     {:player_name => "",
                      :number => ,
