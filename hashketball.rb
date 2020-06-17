@@ -1,8 +1,8 @@
 require 'pry'
 # Write your code here!
-def game_hash(hash)
+def game_hash
 #top level has two keys :home and :away
-  hash = {
+  {
     :home => {
        :team_name => "Brooklyn Nets",
        :colors => [ Black, White ] ,
