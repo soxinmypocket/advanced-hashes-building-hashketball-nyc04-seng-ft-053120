@@ -2,7 +2,7 @@ require 'pry'
 # Write your code here!
 def game_hash
 #top level has two keys :home and :away
-  {
+  game_hash = {
     :home => {
        :team_name => "Brooklyn Nets",
        :colors => ["Black", "White"] ,
