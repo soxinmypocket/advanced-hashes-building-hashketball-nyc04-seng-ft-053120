@@ -20,15 +20,17 @@ def game_hash(hash)
     :away => {
       :team_name => "",
       :colors => [],
-      :players =>[{:player_name => },
-                    {:number => },
-                    {:shoe => },
-                    {:points => },
-                    {:rebounds => },
-                    {:asists => },
-                    {:steals => },
-                    {:blocks => },
-                    {:slam_dunks => }]}
+      :players =>[
+                   {:player_name => ,
+                    :number => ,
+                    :shoe => ,
+                    :points => ,
+                    :rebounds => ,
+                    :asists => ,
+                    :steals => ,
+                    :blocks => ,
+                    :slam_dunks => }
+                  ]
       }}
 
 
