@@ -2,6 +2,6 @@
 def game_hash(hash)
 
 
-  end
+  
   hash
 end
