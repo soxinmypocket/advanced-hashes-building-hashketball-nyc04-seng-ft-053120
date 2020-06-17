@@ -1,6 +1,6 @@
 require 'pry'
 # Write your code here!
-def game_hash
+def hashketball(game_hash)
 #top level has two keys :home and :away
   game_hash = {
     :home => {
