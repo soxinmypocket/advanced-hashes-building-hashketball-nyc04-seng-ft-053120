@@ -56,6 +56,7 @@ def game_hash(hash)
                          :blocks => 11,
                          :slam_dunks => 1}
                    ]
+              },
 
     :away => {
       :team_name => "Charlotte Hornets",
