@@ -6,7 +6,7 @@ def game_hash(hash)
        :team_name => "",
        :colors => [] ,
        :players => [
-                    {:player_name => ,
+                    {:player_name => "",
                      :number => ,
                      :shoe => ,
                      :points => ,
@@ -21,7 +21,7 @@ def game_hash(hash)
       :team_name => "",
       :colors => [],
       :players =>[
-                   {:player_name => ,
+                   {:player_name =>"",
                     :number => ,
                     :shoe => ,
                     :points => ,
